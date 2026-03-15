@@ -183,10 +183,3 @@
                 message: "Server could not call book collection because database connection",
                 status:500
             }
-
-Back-End
-```bash
-cd server
-npm install
-npm start
-```
