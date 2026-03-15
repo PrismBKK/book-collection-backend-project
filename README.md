@@ -184,18 +184,6 @@
                 status:500
             }
 
-## 🚀 Installation
-Clone Project
-```bash
-git clone https://github.com/PrismBKK/book-collection-backend-project.git
-cd book-collection-backend-project
-```
-Front-End
-```bash
-
-npm install
-npm run dev
-```
 Back-End
 ```bash
 cd server
